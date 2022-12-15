@@ -1,2 +1,4 @@
 This group is made of 20 members
 Staying within the ET timezone
+ET zone cuts across America and Canada
+It is usually about 5 hours behind the GMT
